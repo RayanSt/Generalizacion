@@ -1,9 +1,9 @@
-# Generalizacion - Diagramas casos de uso
+# Generalización - Diagramas casos de uso
 
 ## Autores ✒️
 
 * **Brayan Stiven Parra Pinilla** - *20171020156* - [RayanSt](https://github.com/RayanSt)
-* **Raul Eduardo Pachon Alaarcon** - *20171020167* - [raulpachon](https://github.com/raulpachon)
+* **Raul Eduardo Pachon Alarcon** - *20171020167* - [raulpachon](https://github.com/raulpachon)
 * **Deivid Armando Toloza Ortiz** - *20171020140* - [deividGH](https://github.com/deividGH)
 
 # Analisis 📌
@@ -14,17 +14,30 @@ _Se establece la funcionalidad basica generalizado de un banco de preguntas apar
 
 
 ## Referencias: 
+## Procesos con Entidad: 
 
-### Procesos con Entidad: 
+### Crear Entidad:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/CrearEntidad.jpeg)
+
+### Modificar Entidad:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/ModificarEntidad.jpeg)
+
+### Eliminar Entidad:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/EliminarEntidad.jpeg)
+
+### Asociar Entidad:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/AsociarEntidades.jpeg)
-![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/SepararEntidades.jpeg)
+
+### Separar Entidades:
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/SepararEntidades.jpeg
+
+### Mostrar Entidades:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/Mostrar.jpeg)
 
 ## Casos de Uso:
+### Banco de Preguntas:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/BancoPreguntas.jpeg)
+### Gestion de Competencias:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/GestionCompetencias.jpeg)
 
 ## Diagrama de Clases: 
