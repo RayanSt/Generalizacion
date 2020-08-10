@@ -15,7 +15,21 @@ _Se establece la funcionalidad basica generalizado de un banco de preguntas apar
 
 ## Referencias: 
 
-![imagen referencia](https://github.com/RayanSt/Cajero/blob/master/UseCaseCajero.jpg)
+### Procesos con Entidad: 
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/CrearEntidad.jpeg)
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/ModificarEntidad.jpeg)
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/EliminarEntidad.jpeg)
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/AsociarEntidades.jpeg)
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/SepararEntidades.jpeg)
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/Mostrar.jpeg)
+
+## Casos de Uso:
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/BancoPreguntas.jpeg)
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/GestionCompetencias.jpeg)
+
+## Diagrama de Clases: 
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/Clases.jpeg)
+
 
 ## Harramienta usada: 
 
