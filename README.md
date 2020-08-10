@@ -29,7 +29,7 @@ _Se establece la funcionalidad basica generalizado de un banco de preguntas apar
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/AsociarEntidades.jpeg)
 
 ### Separar Entidades:
-![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/SepararEntidades.jpeg
+![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/SepararEntidades.jpeg)
 
 ### Mostrar Entidades:
 ![imagen referencia](https://github.com/RayanSt/Generalizacion/blob/master/Mostrar.jpeg)
